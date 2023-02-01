@@ -1,7 +1,8 @@
 # netconfjs
 Modified from [darylturner/node-netconf: Pure JavaScript NETCONF library for Node.js](https://github.com/darylturner/node-netconf)
 
-### All I did was update the `package.json` to newer versions of the dependencies.  The original codebase is actually the netconfjs plugin which I presume was forked from Daryl's repo.
+#### All I did was update the `package.json` to newer versions of the dependencies.  The original codebase is actually the `netconfjs` plugin which I presume was forked from Daryl's repo.
+
     
 This module was created to abstract the events and streams away from handling a NETCONF session in Node.js. Event management, message IDs and associating requests with replies is taken care of by the module and exposes core functions via requests and callbacks.
 
