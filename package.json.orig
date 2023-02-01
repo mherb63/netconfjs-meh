@@ -1,0 +1,61 @@
+{
+  "_from": "netconfjs",
+  "_id": "netconfjs@0.9.0",
+  "_inBundle": false,
+  "_integrity": "sha512-pZg5JlWt1tRYreQnAsCxXK3DCSKxP8qv8rLZgbNJt4rC6SVe7820XFajVhVOwd2r6jN8+K1WXcfwBA2L1wCdBA==",
+  "_location": "/netconfjs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "netconfjs",
+    "name": "netconfjs",
+    "escapedName": "netconfjs",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/netconfjs/-/netconfjs-0.9.0.tgz",
+  "_shasum": "ecb03d0f7da23bf41a68c25168c8f4d608591e99",
+  "_spec": "netconfjs",
+  "_where": "/Users/mherb/Documents/AWS/na-sales-amplify-cal/amplify/backend/function/awsNetconfEquipment/src",
+  "author": {
+    "name": "Zhang Jinglong",
+    "email": "zhangjl_sjtu@qq.com"
+  },
+  "bugs": {
+    "url": "https://git.iwincc.cn/zhangjinglong/netconfjs/-/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "ssh2": "^1.11.0",
+    "vasync": "^2.2.1",
+    "xml2js": "^0.4.23"
+  },
+  "deprecated": false,
+  "description": "Pure JavaScript NETCONF library.",
+  "directories": {
+    "example": "examples"
+  },
+  "homepage": "https://github.com/darylturner/node-netconf#readme",
+  "keywords": [
+    "xml-rpc",
+    "netconf",
+    "juniper"
+  ],
+  "license": "ISC",
+  "main": "lib/netconf.js",
+  "name": "netconfjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darylturner/node-netconf.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.9.0"
+}
