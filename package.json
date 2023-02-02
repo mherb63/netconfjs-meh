@@ -1,6 +1,6 @@
 {
   "name": "netconfjs-meh",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Modified from [darylturner/node-netconf: Pure JavaScript NETCONF library for Node.js](https://github.com/darylturner/node-netconf)",
   "main": "lib/netconf.js",
   "directories": {
