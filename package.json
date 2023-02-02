@@ -23,6 +23,9 @@
   },
   "homepage": "https://github.com/mherb63/netconfjs-meh#readme",
   "dependencies": {
-    "npm-packlist": "^7.0.4"
+    "npm-packlist": "^7.0.4",
+    "ssh2": "^1.11.0",
+    "vasync": "^2.2.1",
+    "xml2js": "^0.4.23"
   }
 }
